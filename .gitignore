@@ -1,0 +1,14 @@
+.venv/
+.venv-exec/
+.venv-verify/
+.venv-mat/
+__pycache__/
+*.pyc
+.DS_Store
+__MACOSX/
+/results/
+/experiments/results/
+/experiments/results_realdata/
+/experiments/gam_results_poisson/
+/experiments/gam_results_bernoulli/
+*.asv

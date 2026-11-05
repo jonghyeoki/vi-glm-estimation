@@ -1,0 +1,7 @@
+* text=auto eol=lf
+# Disable line-ending conversion for experiment sources and data.
+experiments/** -text
+*.zip -text
+*.pdf -text
+*.png -text
+*.mat -text
